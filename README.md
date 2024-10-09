@@ -1,14 +1,15 @@
 # generaciondeprompts-cb
 POC-Generacion de Prompts
+
 Introducción:
 
-Nombre del proyecto: Star Trek character
+Nombre del proyecto: Star Trek - Diseño de personaje.
 
 Presentación del problema a abordar: Desde la biblia del show tomar caracteristicas propias de los personajes para poder generar el diseno de un personaje, en forma de texto con sus caracteristicas principales y visualmente.
 
-Desarrollo de la propuesta de solución: Desde distintias descripciones poder general un resumen y luego el prompt adecuado para poder general el diseno visual del personaje.
+Desarrollo de la propuesta de solución: Desde distintias descripciones poder general un resumen y luego el prompt adecuado para poder generar el diseño visual del personaje.
 
-Justificación de la viabilidad del proyecto: Este proyecto es viable ya que tenemos informacion del personaje en distintas parrafos que contiene la biblia.
+Justificación de la viabilidad del proyecto: Este proyecto es viable ya que tenemos informacion del personaje en distintas parrafos que contiene la biblia del show.
 
 Objetivos: Poder acceder de forma rapida a la descripcion del personaje y como se veria en una imagen.
 
