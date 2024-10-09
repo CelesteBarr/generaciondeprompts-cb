@@ -1,4 +1,4 @@
-# generaciondeprompts-cb
+Trabajo Final, diseño de personaje # generaciondeprompts-cb
 POC-Generacion de Prompts
 
 Introducción:
